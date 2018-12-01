@@ -7,5 +7,3 @@ $DB = new DB;
 $DB->connect();
 
 echo "OK";
-
-echo "ASSS";
